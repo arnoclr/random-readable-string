@@ -1,7 +1,7 @@
 # Readable Random String
 
 Creates a random (as far as Math.random is random) string that is readable for humans.
-This can be used to generate usernames or small links that can be remembered less hard.
+This can be used to generate usernames or small links that can be more easily remembered.
 
 Avoid using this for passwords, because it is not secure (generate strings contains only lowercase letters).
 
