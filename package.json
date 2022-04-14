@@ -1,0 +1,28 @@
+{
+  "name": "readable-random-string",
+  "version": "1.0.0",
+  "description": "Generate random string readable by humans",
+  "source": "index.js",
+  "main": "dist/rrs.js",
+  "module": "dist/rrs.module.js",
+  "type":"module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arnoclr/random-readable-string"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "Arno Cellarier",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
