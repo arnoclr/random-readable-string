@@ -5,7 +5,7 @@ This can be used to generate usernames or small links that can be more easily re
 
 Avoid using this for passwords, because it is not secure (generate strings contains only lowercase letters).
 
-## require/import
+## usage
 
 ```javascript
 import rrs from 'readable-random-string';
@@ -14,13 +14,13 @@ rrs(5);
 // "uthek"
 ```
 
-# parameters
+## parameters
 
-## `length`: number
+#### `length`: number
 
 Length of returned string.
 
-## `separatorGap`: number (default: 0)
+#### `separatorGap`: number (default: 0)
 
 Return string separated by dashes ervery `separatorGap` characters.
 
@@ -31,6 +31,6 @@ rrs(9, 4);
 // "mela-ekou"
 ```
 
-# Licence
+## Licence
 
 Licensed under MIT license, Copyright © 2022 CELLARIER Arno
