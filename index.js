@@ -21,7 +21,7 @@ const CONSONANTS = [
     'p', 'pr', 'ps', 'pl', 'pn', 'pp',
     'q', 'qu',
     'r', 'rt', 'rp', 'rg', 'rd', 'rq', 'rj', 'rgu', 'rgr', 'rgl', 'rgn',
-    's', 'ss',
+    's', 'ss', 'sl',
     't', 'tr', 'tl', 'th', 'tt',
     'v', 'vr',
     'w',
